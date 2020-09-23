@@ -10,8 +10,8 @@
         <module name="helloworld" />
         <module name="Routing" />
         <module name="Topic" />
-        <module name="PublishSubscribe" />
         <module name="RPC" />
+        <module name="PublishSubscrible" />
         <module name="Utils" />
       </profile>
     </annotationProcessing>

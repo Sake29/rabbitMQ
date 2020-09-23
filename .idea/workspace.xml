@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7045947e-cf6b-4302-9265-880d3f47920f" name="Default Changelist" comment="" />
+    <list default="true" id="7045947e-cf6b-4302-9265-880d3f47920f" name="Default Changelist" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PublishSubscribe/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Routing/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topic/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/src/main/java/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublishSubscribe/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PublishSubscribe/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Topic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/target/classes/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/target/classes/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/target/classes/App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/target/classes/App.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,9 +50,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1hrC5RdbqBObo9iwgj0ezS5PLqD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test (1)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -45,64 +73,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.App.receive (1)">
-    <configuration name="App.receive (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="workQueue" />
-      <option name="PACKAGE_NAME" value="" />
+  <component name="RunManager" selected="JUnit.App.test1">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="receive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App.receive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworld" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="receive" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.receive1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <module name="Utils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="workQueue" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="receive1" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.send (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="workQueue" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="send" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="helloworld" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="send" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Registration" />
+      <item itemvalue="JUnit.Main.test1" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.App.test1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.App.receive (1)" />
-        <item itemvalue="JUnit.App.send (1)" />
-        <item itemvalue="JUnit.App.receive1" />
-        <item itemvalue="JUnit.App.receive" />
-        <item itemvalue="JUnit.App.send" />
+        <item itemvalue="JUnit.App.test1" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Registration" />
+        <item itemvalue="JUnit.Main.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -116,37 +133,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600759640941</updated>
-      <workItem from="1600759644178" duration="5534000" />
+      <workItem from="1600759644178" duration="21844000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/workQueue/src/main/java/App.java</url>
-          <line>139</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/workQueue/src/main/java/App.java</url>
-          <line>128</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/workQueue/src/main/java/App.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/workQueue/src/main/java/App.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>

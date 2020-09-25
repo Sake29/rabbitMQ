@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7045947e-cf6b-4302-9265-880d3f47920f" name="Default Changelist" comment="second commit">
+    <list default="true" id="7045947e-cf6b-4302-9265-880d3f47920f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/src/main/java/RPCClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/src/main/java/RPCService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils/src/main/java/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/src/main/java/ConnectionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/src/main/java/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/src/main/java/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/target/classes/App.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +61,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Registration">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="RPC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPCClient" />
+      <module name="RPC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPCService" />
+      <module name="RPC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Registration" />
       <module name="Utils" />
@@ -63,36 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="workQueue" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="workQueue" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Registration" />
-      <item itemvalue="JUnit.Main.test1" />
-      <item itemvalue="JUnit.App.test1" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.App.test1" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.RPCClient" />
+        <item itemvalue="Application.RPCService" />
         <item itemvalue="Application.Registration" />
-        <item itemvalue="JUnit.Main.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -107,8 +110,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600759640941</updated>
       <workItem from="1600759644178" duration="21844000" />
-      <workItem from="1600852970272" duration="698000" />
+      <workItem from="1600852970272" duration="20831000" />
     </task>
+    <task id="LOCAL-00001" summary="修改了一些小的问题">
+      <created>1600853821378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600853821378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="修改了一些小的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了一些小的问题" />
   </component>
 </project>

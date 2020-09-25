@@ -11,8 +11,13 @@
         <module name="Routing" />
         <module name="Topic" />
         <module name="RPC" />
-        <module name="PublishSubscrible" />
         <module name="Utils" />
+      </profile>
+      <profile name="Annotation profile for rabbitmq" enabled="true">
+        <sourceOutputDir name="../PublishSubscribe/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../PublishSubscribe/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PublishSubscrible" />
       </profile>
     </annotationProcessing>
   </component>

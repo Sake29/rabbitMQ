@@ -19,6 +19,7 @@ public class Registration {
     private final static String HELLO_QUEUE_NAME="SAKE_FIRST_QUEUE";//helloworld队列
     private final static String TOPIC_QUEUE_NAME_01 = "TOPIC_EXCHANGE_QUEUE_01";//topic队列1
     private final static String TOPIC_QUEUE_NAME_02 = "TOPIC_EXCHANGE_QUEUE_02";//topic队列2
+    private static final String RPC_QUEUE_NAME = "RPC_QUEUE";//RPC队列
 
 
     public static void main(String[] args) throws IOException, TimeoutException {
@@ -49,6 +50,7 @@ public class Registration {
         channel.queueDeclare(SMS_QUEUE_NAME,false,false,false,null);
         channel.queueDeclare(TOPIC_QUEUE_NAME_01,false,false,false,null);
         channel.queueDeclare(TOPIC_QUEUE_NAME_02,false,false,false,null);
+        channel.queueDeclare(RPC_QUEUE_NAME,false,false,false,null);
 
 
         System.out.println("所有队列及交换机注册完成！");

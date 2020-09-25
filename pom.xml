@@ -11,7 +11,7 @@
     <modules>
         <module>helloworld</module>
         <module>workQueue</module>
-        <module>PublishSubscribe</module>
+        <module>PublishSubscrible</module>
         <module>Routing</module>
         <module>Topic</module>
         <module>RPC</module>

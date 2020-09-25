@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7045947e-cf6b-4302-9265-880d3f47920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/src/main/java/RPCClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/src/main/java/RPCService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RPC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils/src/main/java/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/src/main/java/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workQueue/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/workQueue/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/target/classes/ConnectionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,28 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="RPC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RPCClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPCClient" />
-      <module name="RPC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RPCService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPCService" />
-      <module name="RPC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Registration" />
       <module name="Utils" />
@@ -92,9 +67,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.RPCClient" />
-        <item itemvalue="Application.RPCService" />
         <item itemvalue="Application.Registration" />
       </list>
     </recent_temporary>
@@ -111,6 +83,7 @@
       <updated>1600759640941</updated>
       <workItem from="1600759644178" duration="21844000" />
       <workItem from="1600852970272" duration="20831000" />
+      <workItem from="1601023385467" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="修改了一些小的问题">
       <created>1600853821378</created>
